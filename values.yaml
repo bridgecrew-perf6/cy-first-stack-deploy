@@ -1,7 +1,6 @@
 # Default values for go-gin-stack.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
-
 nocalhost:
   backend:
     dev:
